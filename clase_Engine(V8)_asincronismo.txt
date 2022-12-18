@@ -1,0 +1,5 @@
+Link a la clase de Diego De Granda donde explica asincronismo y event loop con un ejemplo de una "taquería mexicana". 
+
+Brillante e imperdible!!!
+
+https://platzi.com/clases/1798-javascript-navegador/26016-asincronia/
