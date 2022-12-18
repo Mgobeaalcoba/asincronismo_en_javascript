@@ -1,0 +1,26 @@
+{
+  "name": "asincronismo_en_javascript",
+  "version": "1.0.0",
+  "description": "Un proyecto donde iré guardando ejercicios de asincronismo y finalizaré realizando una landing page. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript.git"
+  },
+  "keywords": [
+    "javascritp",
+    "asincronismo",
+    "full",
+    "stack",
+    "developer"
+  ],
+  "author": "Mariano Gobea Alcoba <gobeamariano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript/issues"
+  },
+  "homepage": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript#readme"
+}
