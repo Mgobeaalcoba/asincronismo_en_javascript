@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript/issues"
   },
-  "homepage": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript#readme"
+  "homepage": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
