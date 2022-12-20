@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/Mgobeaalcoba/Asincronismo_en_JavaScript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }

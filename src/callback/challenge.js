@@ -67,3 +67,5 @@ fetchData(`${API}/products`, function (error1, data1) {
         })
     })
 } )
+
+// Prueba de cambios
