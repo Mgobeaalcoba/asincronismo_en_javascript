@@ -16,7 +16,33 @@ Output:
 Error: API Not Found
 */
 
-function runCode() {
-    // Tu código aquí 👈
+// Dos soluciones:
+import fetch from "node-fetch";
+
+// Con then: 
+const url = 'https://domain-api-com'; 
+function fetchData(url){
+    return fetch(url)
+}
+
+fetchData(url)
+    .then( response =>{console.log(response)})
+    .catch( () => {
+        throw new Error('API Not Found')
+    });
+
+// ---------------------------------------------    
+// Con await y async:
+import fetch from "node-fetch";
+
+async function runCode() {
     const url = 'https://domain-api-com';
+    try{
+        const data = await fetch(url);
+        console.log(data);
+    }catch(error){
+        throw new Error('API Not Found');
+    }
   }
+
+runCode()
